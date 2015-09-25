@@ -1,3 +1,5 @@
+//brynn lampert
+
 #define RED_LED 7
 
 void setup() {
